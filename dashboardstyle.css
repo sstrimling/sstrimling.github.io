@@ -99,7 +99,7 @@ body .tab-parent .tab-container .tab.jsx-3201076643:last-of-type.tab--selected {
 
 @media (min-width: 1480px) {
   body div#_dash-app-content {
-    max-width: 80%;
+    max-width: 100%;
   }
 }
 @media (max-width: 1260px) {

@@ -31,7 +31,7 @@ body .introtext {
   -webkit-columns: 2;
      -moz-columns: 2;
           columns: 2;
-  max-width: 1280px;
+  max-width: 80%;
   padding: 32px;
   display: block;
   margin: 32px auto;
@@ -75,7 +75,7 @@ body .js-plotly-plot .plotly .main-svg {
   background-color: transparent !important;
 }
 body div#tabs {
-  max-width: 1352px;
+  max-width: 80%;
   margin: 0 auto;
   width: 100%;
   margin-bottom: 3rem;
